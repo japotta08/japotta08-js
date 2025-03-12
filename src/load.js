@@ -277,7 +277,7 @@ var CSL = {
         }
     },
 
-    MULTI_FIELDS: ["event", "publisher", "publisher-place", "event-place", "title", "container-title", "collection-title", "authority","genre","title-short","medium","country","jurisdiction","archive","archive-place"],
+    MULTI_FIELDS: ["event", "publisher", "publisher-place", "event-place", "title", "container-title", "collection-title", "event-title", "original-title", "part-title", "reviewed-title", "volume-title", "authority","genre","title-short","medium","country","jurisdiction","archive","archive-place"],
 
     LangPrefsMap: {
         "title":"titles",

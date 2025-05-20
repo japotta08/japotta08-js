@@ -5,7 +5,7 @@
 A JavaScript implementation of the Citation Style Language
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:Authors: Frank Bennett
+:Authors: Kevin Davenport 
 
 
 .. image:: https://github.com/Juris-M/citeproc-js/actions/workflows/ci.yml/badge.svg
